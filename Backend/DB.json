@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "productID": "fhjh",
+      "name": "ffjhfh",
+      "category": "hjfjh",
+      "image": "fjhf",
+      "description": "hf",
+      "price": "hjfj",
+      "id": 1
+    },
+    {
+      "productID": "jhvhj",
+      "name": "vjhvjhvj",
+      "category": "kjh",
+      "image": "kj",
+      "description": "kjhkj",
+      "price": "hkjh",
+      "id": 2
+    },
+    {
+      "productID": "yfjfj",
+      "name": "jgkjgk",
+      "category": "jkgjkg",
+      "image": "jgkgkg",
+      "description": "jkgjgjk",
+      "price": "jkg",
+      "id": 3
+    },
+    {
+      "productID": "jhjhgj",
+      "name": "hgjg",
+      "category": "jhgjhgjhg",
+      "image": "hgjhgjh",
+      "description": "ghjhg",
+      "price": "gjhgjh",
+      "id": 4
+    }
+  ]
+}
